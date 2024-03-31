@@ -1,0 +1,48 @@
+{
+  "fart" : {
+	"subtitle": "foolish.subtitle.fart",
+	"sounds": [ "foolish:fart", "foolish:fart_1", "foolish:fart_2" ]
+	},
+	"scream": {
+		"subtitle":"foolish.subtitle.scream",
+		"sounds": [{
+			"name": "foolish:scream",
+			"weight": 10
+		}, {
+			"name": "foolish:laugh",
+			"weight": 1
+		}]
+	},
+	"numero": {
+		"subtitle": "foolish.subtitle.numero",
+		"sounds": ["foolish:numero"]
+	},
+	"scary": {
+		"subtitle": "foolish.subtitle.scary",
+		"sounds": ["foolish:scary_alert"]
+	},
+	"musicbox": {
+		"subtitle": "foolish.subtitle.musicbox",
+		"sounds": ["foolish:music_box"]
+	},
+	"musicboxs": {
+		"subtitle": "foolish.subtitle.musicbox",
+		"sounds": ["foolish:music_box_shortened"]
+	},
+	"musicboxm": {
+		"subtitle": "foolish.subtitle.musicbox",
+		"sounds": ["foolish:music_box_regular"]
+	},
+	"musicboxl": {
+		"subtitle": "foolish.subtitle.musicbox",
+		"sounds": ["foolish:music_box_long"]
+	},
+	"moment_s": {
+		"subtitle": "foolish.subtitle.moment_s",
+		"sounds": ["foolish:moment_s"]
+	},
+	"moment_v": {
+		"subtitle": "foolish.subtitle.moment_v",
+		"sounds": ["foolish:moment_v"]
+	}
+}
